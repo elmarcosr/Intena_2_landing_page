@@ -1,0 +1,14 @@
+.fondo{
+    background-image: url(./ardiente-nube-hongo-bomba-atomica-detonacion-que-levanta-rascacielos_33099-1632.webp);
+    height: 600px;
+    width: 1500px;
+    position: absolute;
+}
+.per{
+    background-image: url(./per.png);
+    width: 100px;
+    height: 60px;
+    margin-left: 300px;
+    margin-top: 400px;
+
+}

@@ -1,0 +1,16 @@
+.introduccion{
+    display: flex;
+    justify-content: center;
+}
+.text_introduccion{
+    width: 50%;
+}
+h2{
+    text-align: center;
+    padding: 2rem 0;
+}
+.cocina{
+    width: 500px;
+    height: 400px;
+    margin: 0 1rem;
+}

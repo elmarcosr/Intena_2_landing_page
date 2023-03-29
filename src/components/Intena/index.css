@@ -1,0 +1,26 @@
+.containerbut{
+    width: 100%;
+    text-align: end;
+}
+.container_button{
+    display: flex;
+    justify-content: space-between;
+}
+.container_but{
+    width: 100%;
+    align-items: end;
+}
+
+.butto{
+    padding: 1rem 2rem;
+    background: radial-gradient(circle, rgba(102,1,1,1) 0%, rgba(11,0,0,1) 100%);
+    margin: 1rem 0;
+    color: white;
+}
+.buttoini{
+    color: white;
+    background: radial-gradient(circle, rgba(102,1,1,1) 0%, rgba(11,0,0,1) 100%);
+    padding: 1rem 2rem;
+    margin: 1rem 0;
+    justify-content: end;
+}
